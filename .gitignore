@@ -1,1 +1,10 @@
-.data/
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.h5
+.DS_Store
+Thumbs.db
